@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Mile</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike-dev-idii" alt="mike-dev-idii" /></a> </p>
 
-- 🔭 I’m currently working on **cheap**
+- 🔭 I’m currently working on **Health-care**
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently working **Angular**
 
-- 💬 Ask me about **c,c++,c#,dart**
+- 💬 Ask me about JS,TS,Dart,C,C++..etc
 
 - 📫 How to reach me **mukeshcsuthar1999@gmail.com**
 
